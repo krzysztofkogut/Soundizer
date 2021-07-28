@@ -1,0 +1,6 @@
+framework module Pods_SoundizerTests {
+  umbrella header "Pods-SoundizerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
